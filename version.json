@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.1.1/reel-checker.apk",
-  "notes": "إصلاح: الريلز ما يبقاش يعطي صورة بدل الفيديو + يوتيوب وتيك توك أقوى",
-  "versionCode": 37,
-  "versionName": "4.1.1"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.2.0/reel-checker.apk",
+  "notes": "التطبيق دابا كيسوّل السيرفر أولاً (يوتيوب + انستغرام) + إصلاح تنزيل تيك توك",
+  "versionCode": 39,
+  "versionName": "4.2.0"
 }
