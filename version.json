@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.3.1/reel-checker.apk",
-  "notes": "v4.3.1: مهلة قراءة السيرفر 15 ثانية + إعادة، وسم عبر السيرفر، إصلاح NDK",
-  "versionCode": 41,
-  "versionName": "4.3.1"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.3.2/reel-checker.apk",
+  "notes": "v4.3.2: التطبيق يفيق السيرفر الناعس ويعاود المحاولة",
+  "versionCode": 42,
+  "versionName": "4.3.2"
 }
