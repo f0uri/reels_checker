@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.12/reel-checker.apk",
-  "notes": "إزالة الإعلانات — التطبيق بلا إعلانات",
-  "versionCode": 33,
-  "versionName": "3.12"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.13/reel-checker.apk",
+  "notes": "جودة صورة البروفايل: تنزيل HD 320px بدل 150px",
+  "versionCode": 34,
+  "versionName": "3.13"
 }
