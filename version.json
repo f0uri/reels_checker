@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.11/reel-checker.apk",
-  "notes": "إعلانات AdMob: بانر لتحت + إعلان كامل بعد كل 3 تنزيلات (تجريبي دابا)",
-  "versionCode": 32,
-  "versionName": "3.11"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.12/reel-checker.apk",
+  "notes": "إزالة الإعلانات — التطبيق بلا إعلانات",
+  "versionCode": 33,
+  "versionName": "3.12"
 }
