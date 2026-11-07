@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.2.0/reel-checker.apk",
-  "notes": "التطبيق دابا كيسوّل السيرفر أولاً (يوتيوب + انستغرام) + إصلاح تنزيل تيك توك",
-  "versionCode": 39,
-  "versionName": "4.2.0"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.3.0/reel-checker.apk",
+  "notes": "v4.3.0: السيرفر يقرا كل دقيقة بلا إعادة تشغيل، مهلة 90 ثانية، كوكيز تيكتوك للتحميل",
+  "versionCode": 40,
+  "versionName": "4.3.0"
 }
