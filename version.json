@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.3.0/reel-checker.apk",
-  "notes": "v4.3.0: السيرفر يقرا كل دقيقة بلا إعادة تشغيل، مهلة 90 ثانية، كوكيز تيكتوك للتحميل",
-  "versionCode": 40,
-  "versionName": "4.3.0"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.3.1/reel-checker.apk",
+  "notes": "v4.3.1: مهلة قراءة السيرفر 15 ثانية + إعادة، وسم عبر السيرفر، إصلاح NDK",
+  "versionCode": 41,
+  "versionName": "4.3.1"
 }
