@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.0.0/reel-checker.apk",
-  "notes": "نسخة Flutter: نفس التصميم، تخدم على أندرويد وآيفون",
-  "versionCode": 35,
-  "versionName": "4.0.0"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.1.0/reel-checker.apk",
+  "notes": "نسخة Flutter: يوتيوب + تيك توك + فيسبوك — نفس التصميم",
+  "versionCode": 36,
+  "versionName": "4.1.0"
 }
