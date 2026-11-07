@@ -1,1 +1,6 @@
-{"apkUrl":"https://github.com/f0uri/reels_checker/releases/download/v3.10/reel-checker.apk","notes":"تسريع الصور والريلز — كلشي في ثواني","versionCode":31,"versionName":"3.10"}
+{
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.11/reel-checker.apk",
+  "notes": "إعلانات AdMob: بانر لتحت + إعلان كامل بعد كل 3 تنزيلات (تجريبي دابا)",
+  "versionCode": 32,
+  "versionName": "3.11"
+}
