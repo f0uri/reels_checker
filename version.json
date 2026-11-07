@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v3.13/reel-checker.apk",
-  "notes": "جودة صورة البروفايل: تنزيل HD 320px بدل 150px",
-  "versionCode": 34,
-  "versionName": "3.13"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.0.0/reel-checker.apk",
+  "notes": "نسخة Flutter: نفس التصميم، تخدم على أندرويد وآيفون",
+  "versionCode": 35,
+  "versionName": "4.0.0"
 }
