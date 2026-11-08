@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.4.0/reel-checker.apk",
-  "notes": "v4.4.0: إنستغرام فقط — مسح يوتيوب وتيك توك وفيسبوك",
-  "versionCode": 43,
-  "versionName": "4.4.0"
+  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.4.1/reel-checker.apk",
+  "notes": "v4.4.1: الريل كيخدم مباشرة ملي يظهر — بلا مربع رمادي قبل التشغيل",
+  "versionCode": 44,
+  "versionName": "4.4.1"
 }
