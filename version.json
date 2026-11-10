@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.9/app-release.apk","notes":"v4.4.9: إصلاح المعاينة — الفيديو كيخدم دابا عبر proxy محلي","versionCode":52,"versionName":"4.4.9"}
+{"apkUrl":"https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.10/app-release.apk","notes":"v4.4.10: إصلاح المعاينة — السماح لـ 127.0.0.1 (حل ERR_CLEARTEXT_NOT_PERMITTED)","versionCode":53,"versionName":"4.4.10"}
