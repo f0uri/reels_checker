@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.10/app-release.apk","notes":"v4.4.10: إصلاح المعاينة — السماح لـ 127.0.0.1 (حل ERR_CLEARTEXT_NOT_PERMITTED)","versionCode":53,"versionName":"4.4.10"}
+{"apkUrl":"https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.11/app-release.apk","notes":"v4.4.11: إصلاح fallback المعاينة — إزالة crossorigin","versionCode":54,"versionName":"4.4.11"}
