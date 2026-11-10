@@ -1,1 +1,1 @@
-{"apkUrl": "https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.4/app-release24.apk", "notes": "v4.4.4: ضيف quicksave.my كـ FALLBACK (primary -> quicksave -> error) + تحميل بنفس UA فوراً بلا cache", "versionCode": 47, "versionName": "4.4.4"}
+{"apkUrl": "https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.5/app-release.apk", "notes": "v4.4.5: النقطة خضراء ملي يتجلب الريلز + الفيديو يملا المشغل بلا جوانب سوداء + زر X فوق صورة المنشور", "versionCode": 48, "versionName": "4.4.5"}
