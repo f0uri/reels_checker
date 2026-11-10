@@ -1,6 +1,1 @@
-{
-  "apkUrl": "https://github.com/f0uri/reels_checker/releases/download/v4.4.3/reel-checker.apk",
-  "notes": "v4.4.3: الصوت رجع فالمشغل + التحقق أسرع + تحيدات «عبر السيرفر»",
-  "versionCode": 46,
-  "versionName": "4.4.3"
-}
+{"apkUrl": "https://github.com/f0uri/reel-checker-flutter/releases/download/v4.4.4/app-release24.apk", "notes": "v4.4.4: ضيف quicksave.my كـ FALLBACK (primary -> quicksave -> error) + تحميل بنفس UA فوراً بلا cache", "versionCode": 47, "versionName": "4.4.4"}
